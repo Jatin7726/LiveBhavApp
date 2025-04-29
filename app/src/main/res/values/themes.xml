@@ -1,0 +1,7 @@
+<resources>
+    <!-- Main App Theme -->
+    <style name="Theme.Mcxpriceappp" parent="Theme.MaterialComponents.NoActionBar" >
+    <item name="android:windowBackground">@color/black</item>
+
+</style>
+</resources>
